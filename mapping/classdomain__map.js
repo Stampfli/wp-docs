@@ -1,0 +1,27 @@
+var classdomain__map =
+[
+    [ "__construct", "classdomain__map.html#a095c5d389db211932136b53f25f39685", null ],
+    [ "add_domain_mapping_filters", "classdomain__map.html#a854e6e0df9d7cac133261e1792c1c040", null ],
+    [ "ajax_update_excluded_pages_list", "classdomain__map.html#a24c4c0eaa6826525482c8f7068eeabdd", null ],
+    [ "allowed_redirect_hosts", "classdomain__map.html#a4a194bb9b53d739723248f5ae5d9ede8", null ],
+    [ "authenticate", "classdomain__map.html#a2b14fc4f21700f34153d970406fb1ad0", null ],
+    [ "build_cookie", "classdomain__map.html#a3256bf9104fe7f631cf0db68dc465e41", null ],
+    [ "build_logout_cookie", "classdomain__map.html#ab01f01f9dc6974cd9c9eafd9d607cda8", null ],
+    [ "build_stylesheet_for_cookie", "classdomain__map.html#ae933a24521fd8aeb2ce46707f2d58b96", null ],
+    [ "domain_mapping_admin_url", "classdomain__map.html#ac14f3de2a64ed541b4968d6bcaae1db1", null ],
+    [ "domain_mapping_login_url", "classdomain__map.html#ae71c2f5565b74f17493db22c9cc66324", null ],
+    [ "domain_mapping_post_content", "classdomain__map.html#a33b5eec5240c4dfbc29e32bfca626daa", null ],
+    [ "get_dns_config", "classdomain__map.html#aeaa5a2508df9b14c9bf01c55025125bd", null ],
+    [ "get_option", "classdomain__map.html#ab0b4bc3b14a67493a273e626eaf44667", null ],
+    [ "reset_script_url", "classdomain__map.html#a2ca0b1921ac217d4698a2f643a1be3d9", null ],
+    [ "setup_plugin", "classdomain__map.html#aff93becd77c867924ae287aa2a9e8ec5", null ],
+    [ "shibboleth_session_initiator_url", "classdomain__map.html#a1e579a04cf1ab32d60e83a9b40875b8f", null ],
+    [ "wp_logout", "classdomain__map.html#abea69268d8d785b0d5d51f3d3539548c", null ],
+    [ "wp_redirect", "classdomain__map.html#ad1ce0950bbacea0de6766802b503e9e7", null ],
+    [ "$db", "classdomain__map.html#a1fa3127fc82f96b1436d871ef02be319", null ],
+    [ "$dmtable", "classdomain__map.html#a345577373743968c494393ebe7b19ca6", null ],
+    [ "$options", "classdomain__map.html#a011800c63ece4cbbfa77136a20607023", null ],
+    [ "$swapped_url", "classdomain__map.html#accea85ac503e53a65701fb36981981ef", null ],
+    [ "$tables", "classdomain__map.html#a3d332a3c374a53802495dcb045f6133f", null ],
+    [ "Text_Domain", "classdomain__map.html#a3397883404d57859e5b07cd2f2007a2a", null ]
+];

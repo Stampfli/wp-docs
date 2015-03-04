@@ -1,0 +1,28 @@
+var lib_2structure_2header_8php =
+[
+    [ "genesis_canonical", "lib_2structure_2header_8php.html#aa2b4d6252bbbf1e7e2da48ce8c840970", null ],
+    [ "genesis_custom_header", "lib_2structure_2header_8php.html#a7e7381b5018a87b6f17e33e5e512e7eb", null ],
+    [ "genesis_custom_header_style", "lib_2structure_2header_8php.html#a05b0e995bf12bebd10462621eef15e1a", null ],
+    [ "genesis_default_title", "lib_2structure_2header_8php.html#a68a6bbe30d439ac04ac733251e385788", null ],
+    [ "genesis_do_doctype", "lib_2structure_2header_8php.html#ac74b329719f96395810c8a79576fdc17", null ],
+    [ "genesis_do_header", "lib_2structure_2header_8php.html#a3680122bd71da85b66aaeea1342670a1", null ],
+    [ "genesis_do_meta_pingback", "lib_2structure_2header_8php.html#a477fa212c94f776da40cdc5c299252b9", null ],
+    [ "genesis_do_title", "lib_2structure_2header_8php.html#a2087f189a39b45ead0d7344f13d93a96", null ],
+    [ "genesis_doc_head_control", "lib_2structure_2header_8php.html#a176a59e789d2b63eb90cf44041c45082", null ],
+    [ "genesis_header_markup_close", "lib_2structure_2header_8php.html#a720b4beea05652ae3612236adc6666c6", null ],
+    [ "genesis_header_markup_open", "lib_2structure_2header_8php.html#ab8b795c568742aaaeba03153c5aab311", null ],
+    [ "genesis_header_menu_args", "lib_2structure_2header_8php.html#ac83dbc51d1e35bde8c0de61dba83e234", null ],
+    [ "genesis_header_menu_wrap", "lib_2structure_2header_8php.html#a1f9280ff5f183582d62ed231c8bb7e8e", null ],
+    [ "genesis_header_scripts", "lib_2structure_2header_8php.html#a7232e8fd1c16c7f20b8abbef574e2071", null ],
+    [ "genesis_html5_doctype", "lib_2structure_2header_8php.html#ad6f311b62fd53f9bfaf83ba6a5fb4e42", null ],
+    [ "genesis_load_favicon", "lib_2structure_2header_8php.html#a934bfb7fa519c0b3495155a66f30cc4f", null ],
+    [ "genesis_rel_author", "lib_2structure_2header_8php.html#aeb2ad4875a23e403dd538d744684e4f5", null ],
+    [ "genesis_rel_publisher", "lib_2structure_2header_8php.html#a514eacc4de1eda83e78a4faccbcc480a", null ],
+    [ "genesis_responsive_viewport", "lib_2structure_2header_8php.html#ab888af5288403c6abfdb4a8a23376b65", null ],
+    [ "genesis_robots_meta", "lib_2structure_2header_8php.html#a444704a31d341e26b03773d4adbb5b0a", null ],
+    [ "genesis_seo_meta_description", "lib_2structure_2header_8php.html#ae9a0797065d5ac47f8a6407394310c1f", null ],
+    [ "genesis_seo_meta_keywords", "lib_2structure_2header_8php.html#a0dad64bf2fe2f70e819e1a4893360ef5", null ],
+    [ "genesis_seo_site_description", "lib_2structure_2header_8php.html#ac6c016e233790d9d5ee26665df1459ff", null ],
+    [ "genesis_seo_site_title", "lib_2structure_2header_8php.html#abe21a9b67c2da5f0f6b1da7aa967226a", null ],
+    [ "genesis_xhtml_doctype", "lib_2structure_2header_8php.html#ae7800e1e7945de942266678b9bf538ff", null ]
+];

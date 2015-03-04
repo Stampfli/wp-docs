@@ -1,0 +1,27 @@
+.wp-logo {
+	margin: auto auto;
+	display: block;
+	border-radius: 2em;
+}
+.jumbotron{
+	margin: 100px 400px;
+	border-radius: 2em;
+}
+#top, #bottom, #left, #right {
+	display: none;
+	}
+	#left, #right {
+		position: fixed;
+		top: 0; bottom: 0;
+		width: 88px;
+		}
+		#left { left: 0;  background: url(img/left.png) left center repeat-y;}
+		#right { right: 0; background: url(img/right.png) right center repeat-y;}
+		
+	#top, #bottom {
+		position: fixed;
+		left: 0; right: 0;
+		height: 88px;
+		}
+		#top { top: 0px; background: url(img/top.png) top center repeat-x; }
+		#bottom { bottom: 0px; background: url(img/bottom.png) bottom center repeat-x; }
